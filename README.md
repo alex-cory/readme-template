@@ -42,14 +42,14 @@ Usage
 -----
 
 ### Some Example
-Potentiall a short summary below, but not 100% necessary.
+Potentially a short summary below, but not 100% necessary.
 ```
 This would be
 some code block
 ```
 
 ### Another Example
-Potentiall a short summary below, but not 100% necessary here either.
+Potentially a short summary below, but not 100% necessary here either.
 ```
 This would be
 some other block
