@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Project Title (<a href="https://github.com/zeit/next.js/">or image/logo</a>)</h1>
 </p>
-<p align="center">🐶 One liner description of what your repo does</p>
+<p align="center">🔥 One liner description of what your repo does</p>
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/ADD YOUR BADGES-HERE-GREEN.svg" />
