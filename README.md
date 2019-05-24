@@ -65,3 +65,6 @@ I like to put these here because 1. it helps me remember what I need to do, and 
 - [X] continuous integration ([awesome continuous integration list](https://github.com/ciandcd/awesome-ciandcd))
 - [ ] make more exmaples on codesandbox
 - [ ] document in a different language
+- [X] badges [awesome list 1](https://github.com/boennemann/badges), [awesome list 2](https://github.com/Naereen/badges)
+- [ ] add keywords to package.json for google searchability
+- [ ] add "topics" to repo by clicking the "Manage topics" button at the top of your repo page. (similar to keywords)
