@@ -68,5 +68,6 @@ I like to put these here because 1. it helps me remember what I need to do, and 
 - [X] badges [awesome list 1](https://github.com/boennemann/badges), [awesome list 2](https://github.com/Naereen/badges)
 - [ ] add keywords to package.json for google searchability
 - [ ] add "topics" to repo by clicking the "Manage topics" button at the top of your repo page. (similar to keywords)
+- [ ] add Social Preview so when you share on social media it will not show your github profile picture (go to Settings tab)
 - [ ] check out the [awesome readme](https://github.com/matiassingers/awesome-readme) list to see others
 - [ ] checkout [this example readme](https://github.com/reframejs/reframe) I really like it
