@@ -60,10 +60,10 @@ Todos
 -----
 I like to put these here because 1. it helps me remember what I need to do, and 2. sometimes people might want to contribute and this gives them very clear todos. 😊
 - [X] tests `yarn test`
-- [X] github page
+- [X] github pages OR even better, make some docs [docsify](https://docsify.js.org/#/quickstart) is pretty awesome
 - [X] publish to NPM `yarn publish`
 - [X] continuous integration ([awesome continuous integration list](https://github.com/ciandcd/awesome-ciandcd))
-- [ ] make more exmaples on codesandbox
+- [ ] make more examples on [codesandbox](codesandbox.io)
 - [ ] document in a different language
 - [X] badges [awesome list 1](https://github.com/boennemann/badges), [awesome list 2](https://github.com/Naereen/badges)
 - [ ] add keywords to package.json for google searchability
@@ -71,3 +71,4 @@ I like to put these here because 1. it helps me remember what I need to do, and 
 - [ ] add Social Preview so when you share on social media it will not show your github profile picture (go to Settings tab)
 - [ ] check out the [awesome readme](https://github.com/matiassingers/awesome-readme) list to see others
 - [ ] checkout [this example readme](https://github.com/reframejs/reframe) I really like it
+- [ ] make a cool logo
