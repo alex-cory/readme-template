@@ -7,6 +7,9 @@
 <p align="center">
   <h1 align="center">Project Title</h1>
 </p>
+
+<br/>
+
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/ADD YOUR BADGES-HERE-GREEN.svg" />
