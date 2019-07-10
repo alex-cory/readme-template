@@ -60,7 +60,7 @@ Todos
 -----
 I like to put these here because 1. it helps me remember what I need to do, and 2. sometimes people might want to contribute and this gives them very clear todos. 😊
 - [X] tests `yarn test`
-- [X] github pages OR even better, make some docs [docsify](https://docsify.js.org/#/quickstart) is pretty awesome
+- [X] github pages - make some docs. I like [docsify](https://docsify.js.org/#/quickstart), but there's also [docusaurus](https://github.com/facebook/docusaurus)
 - [X] publish to NPM `yarn publish`
 - [X] continuous integration ([awesome continuous integration list](https://github.com/ciandcd/awesome-ciandcd))
 - [ ] make more examples on [codesandbox](codesandbox.io)
