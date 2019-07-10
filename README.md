@@ -1,7 +1,12 @@
+<a href="http://use-http.com">
+    <img src="https://github.com/alex-cory/use-http/raw/master/public/dog.png" />
+</a>
+
+<br/>
+
 <p align="center">
-  <h1 align="center">Project Title (<a href="https://github.com/zeit/next.js/">or image/logo</a>)</h1>
+  <h1 align="center">Project Title</h1>
 </p>
-<p align="center">🔥 One liner description of what your repo does</p>
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/ADD YOUR BADGES-HERE-GREEN.svg" />
@@ -14,8 +19,19 @@
   </a>
 </p>
 
+<div align="center"><sup>🔥 One liner description of what your repo does<sup></div>
 
-One to two paragraph project descrption of what it does.
+<br/>
+<br/>
+
+<div align="center">
+  <pre>npm i <a href="http://use-http.com">use-http</a></pre>
+</div>
+
+<br/>
+<br/>
+
+One to two paragraph project descrption of what it does. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 [![](https://github.com/alex-cory/email-autocomplete-input/raw/master/public/email-autocomplete-input-validation.gif?raw=true)](#)
 (example gif demo of what your project does)
@@ -26,20 +42,17 @@ Features
 - it does this
 - it also does that
 
-Examples
---------
-- [Example 1](codesandbox.io)
-(as of now, codesandbox is best because it's so extensible)
-
-Installation
-------------
-Just a simple explanation of how to install it.
-```
-yarn add your-package        or        npm i -S your-package
-```
-
 Usage
 -----
+
+<details><summary><b>⚠️ Examples <sup>click me</sup></b></summary>
+  <ul>
+    <li><b>as of now, codesandbox is best because it's so extensible</b></li>
+    <li><a target="_blank" rel="noopener noreferrer" href='https://codesandbox.io/s/usefetch-in-nextjs-nn9fm'>useFetch + Next.js</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href='https://codesandbox.io/embed/km04k9k9x5'>useFetch + create-react-app</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href='https://codesandbox.io/s/useget-with-provider-c78w2'>useGet + < Provider /></a></li>
+  </ul>
+</details>
 
 ### Some Example
 Potentially a short summary below, but not 100% necessary.
